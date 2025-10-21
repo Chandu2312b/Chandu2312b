@@ -1,15 +1,15 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Vivek⚡;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Chandu⚡;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 
 - 🌱 Currently learning NEXTJs.
 - 🤝 Looking to contribute for Open-source Organizations
-- 👨‍💻 Intrested in FullStack,Flutter,DSA.
+- 👨‍💻 Intrested in FullStack,DSA.
 - 💬 Ask me about DEV.
-- 📫 How to reach me vivekvardhan0310@gmail.com
+- 📫 How to reach me bchandu2312@gmail.com
 
 ### Languages and Tools:
 
@@ -39,15 +39,15 @@
 
 ---
 <h3 align="center">
- <a href="https://github.com/vivek-310">
+ <a href="https://github.com/Chandu2312b">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/vivek-310">
+    </a> <a href="https://github.com/Chandu2312b">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 
  【STᗩTS】 
 </h3>
 
-<a href="https://github.com/vivek-310">
+<a href="https://github.com/Chandu2312b">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
  
@@ -65,9 +65,9 @@
 </a></p >
 
  <p align="center">
-<a href="https://github.com/vivek-310">
+<a href="https://github.com/Chandu2312b">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-310&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Walid's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandu2312b&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Walid's github stats"/>
 
 </a>
 
@@ -77,12 +77,12 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-310&theme=algolia" alt="vivek" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-310&theme=algolia" alt="Chandu" />
 </p>
 
 ----
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-310&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu2312b&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
