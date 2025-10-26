@@ -60,7 +60,7 @@
 
 
 <p align="center"> 
-<!-- <a href="https://user-badge.committers.top/morocco/vivek-310">  -->
+<!-- <a href="https://user-badge.committers.top/morocco/Chandu2312b">  -->
 <!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
@@ -77,7 +77,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-310&theme=algolia" alt="Chandu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu2312b&theme=algolia" alt="Chandu" />
 </p>
 
 ----
